@@ -1,4 +1,4 @@
-## Galerie de jeux réalisé via PICO8
+## Galerie de jeux PICO8
 
 
 - [Missile Command](https://dwursteisen.github.io/pico8_galery/missile.html)
